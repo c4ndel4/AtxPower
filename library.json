@@ -1,0 +1,19 @@
+{
+"name": "AtxPower",
+"frameworks": "Arduino",
+"keywords": "ATX, Power Source",
+"description": "ATX Power Source library",
+"url": "https://github.com/c4ndel4/AtxPower",
+"authors":
+[
+{
+        "name": "Hadrián Candela Iglesias"
+}
+],
+"repository":
+{
+    "type": "git",
+    "url": "https://github.com/c4ndel4/AtxPower"
+}
+}
+
